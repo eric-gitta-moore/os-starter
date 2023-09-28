@@ -5,7 +5,7 @@
 ## 必备软件
 - 火绒、clash verge、chocolatey、chocolateygui、搜狗输入法、Windows 11 Classic Context Menu
 - utools、FastGestures、powertoys（choco）、Ctrl2Cap（choco）
-- tabby（choco）、windterm（choco）、python310（choco）、git（choco）
+- windterm（choco）、python310（choco）、git（choco）
 - vagrant（choco）、VMware workstation、virtualbox（choco）、WSL
 
 ## 必要设置
