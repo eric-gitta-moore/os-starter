@@ -6,7 +6,7 @@
 - 火绒、搜狗输入法、clash verge、chocolatey、chocolateygui、Windows 11 Classic Context Menu
 - utools、FastGestures、powertoys（choco）、Ctrl2Cap（choco）
 - windterm（choco）、python310（choco）、git（choco）
-- vagrant（choco）、VMware workstation、virtualbox（choco）、WSL
+- vagrant（choco）、VMware workstation（choco）、virtualbox（choco）、WSL
 
 ## 必要设置
 - 显示隐藏文件、显示后缀名
