@@ -1,7 +1,7 @@
 # macOS Presets
 
 ## 必备软件
-- clash verge、scroll reverser、搜狗输入法、腾讯柠檬、utools
+- 搜狗输入法、腾讯柠檬、utools、clash verge、scroll reverser
 - homebrew、p10k、windterm、virtualbox、vagrant
 - maczip、qspace pro
 
