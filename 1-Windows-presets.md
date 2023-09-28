@@ -9,10 +9,6 @@
 - vagrant（choco）、VMware workstation（choco）、virtualbox（choco）、WSL
 
 ## 必要设置
-- 显示隐藏文件、显示后缀名
-- 关闭防火墙、UAC
-- 时钟显秒
-- 休眠时间
 - 卓越性能
 - 显示语言英文，行政语言简体中文，删除注册表日文韩文
 ```
