@@ -9,6 +9,7 @@
 - vagrant（choco）、VMware workstation、virtualbox（choco）、WSL
 
 ## 必要设置
+- 显示隐藏文件、显示后缀名
 - 关闭防火墙、UAC
 - 时钟显秒
 - 休眠时间
