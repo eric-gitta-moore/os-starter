@@ -2,7 +2,7 @@
 
 ## 必备软件
 - clash verge、scroll reverser、搜狗输入法、腾讯柠檬、utools
-- homebrew、p10k、tabby、windterm、VMware fusion、virtualbox、vagrant
+- homebrew、p10k、windterm、virtualbox、vagrant
 - maczip、qspace pro
 
 ## 必须设置
