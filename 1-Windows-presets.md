@@ -9,6 +9,7 @@
 - vagrant（choco）、VMware workstation、virtualbox（choco）、WSL
 
 ## 必要设置
+- 关闭防火墙、UAC
 - 时钟显秒
 - 休眠时间
 - 卓越性能
