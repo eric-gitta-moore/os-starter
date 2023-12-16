@@ -5,7 +5,7 @@
 ## 必备软件
 - 火绒、搜狗输入法、clash verge、chocolatey、chocolateygui、Windows 11 Classic Context Menu
 - utools、FastGestures、powertoys、Ctrl2Cap、AutoHotKey
-- windterm、python310、git、7zip、bandizip
+- windterm、conda、git、7zip、bandizip
 - vagrant、VMware workstation、virtualbox、WSL
 
 ## 必要设置
