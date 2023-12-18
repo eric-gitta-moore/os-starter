@@ -10,13 +10,7 @@
 
 ## 必要设置
 - 卓越性能
-- 显示语言英文，行政语言简体中文，删除注册表日文韩文
-```
-出处：https://zhuanlan.zhihu.com/p/502139239
-1. 备份注册表 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts
-2. 删除 Microsoft JhengHei （繁中）开头的3个键、Malgun（韩文）开头的3个键和 Yu Gothic（日文） 开头的4个键
-3. 重启
-```
+- 显示语言英文，行政语言简体中文，[删除注册表日文韩文](https://zhuanlan.zhihu.com/p/502139239)
 
 ## 其他
 - [Chocolatey Software | Packages](https://community.chocolatey.org/packages)
