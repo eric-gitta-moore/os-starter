@@ -4,6 +4,7 @@
 - 搜狗输入法、腾讯柠檬、utools、clash verge、scroll reverser
 - homebrew、p10k、windterm、virtualbox、vagrant
 - maczip、qspace pro
+- [office](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a)
 
 ## 必须设置
 - 时钟显秒
