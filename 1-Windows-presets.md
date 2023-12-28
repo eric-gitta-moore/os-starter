@@ -7,6 +7,7 @@
 - utools、FastGestures、powertoys、Ctrl2Cap、AutoHotKey
 - windterm、conda、git、7zip、bandizip
 - vagrant、VMware workstation、virtualbox、WSL
+- QuickLook
 
 ## 必要设置
 - 卓越性能
