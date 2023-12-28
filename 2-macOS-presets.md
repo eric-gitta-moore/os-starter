@@ -11,3 +11,8 @@
 - 电量显示百分比
 - 三指滑动选中
 - caps2ctrl
+
+## 有用
+- https://44maker.github.io/wiki/Mac/index.html
+- [强迫症的 Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac)
+- [📝 新 Macbook Pro 装机记录](https://www.rustc.cloud/mac-install)
