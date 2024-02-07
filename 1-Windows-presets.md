@@ -3,7 +3,9 @@
 如无必要，勿增实体
 
 ## 必备软件
-- 火绒、搜狗输入法、clash verge、chocolatey、chocolateygui、Windows 11 Classic Context Menu
+- 火绒、搜狗输入法、
+- clash verge、
+- chocolatey、scoop、Windows 11 Classic Context Menu
 - utools、FastGestures、powertoys、Ctrl2Cap、AutoHotKey
 - windterm、conda、git、7zip、bandizip
 - vagrant、VMware workstation、virtualbox、WSL
