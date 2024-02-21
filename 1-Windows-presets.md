@@ -4,7 +4,7 @@
 
 ## 必备软件
 - 火绒、搜狗输入法、
-- clash verge、
+- Clash.Nyanpasu、
 - chocolatey、scoop、Windows 11 Classic Context Menu
 - utools、FastGestures、powertoys、Ctrl2Cap、AutoHotKey
 - windterm、conda、git、7zip、bandizip
