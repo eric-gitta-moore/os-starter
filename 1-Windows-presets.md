@@ -8,7 +8,7 @@
 - chocolatey、scoop、Windows 11 Classic Context Menu
 - utools、FastGestures、powertoys、Ctrl2Cap、AutoHotKey
 - windterm、conda、git、7zip、bandizip
-- vagrant、VMware workstation、virtualbox、WSL
+- ~~vagrant、VMware workstation、virtualbox、WSL~~
 - QuickLook、OpenHashTab
 
 ## 必要设置
