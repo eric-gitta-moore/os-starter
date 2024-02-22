@@ -6,7 +6,7 @@
 - 火绒、搜狗输入法、
 - Clash.Nyanpasu、
 - chocolatey、Windows 11 Classic Context Menu
-- utools、FastGestures、powertoys、Ctrl2Cap、AutoHotKey
+- utools、FastGestures、powertoys、Ctrl2Cap、AutoHotKey、autoruns
 - windterm、conda、git、7zip、bandizip
 - ~~vagrant、VMware workstation、virtualbox、WSL~~
 - QuickLook、OpenHashTab
