@@ -20,6 +20,14 @@
 - WSL 配置一条龙：https://james-curtis.github.io/2023/ubuntu-setup-summary/
 - [hyper-v 随机保留端口号剔除](https://juejin.cn/post/7214854106179321911)
 
+### Office
+- [Office Tool Plus](https://otp.landian.vip/zh-cn/)
+- [Windows / Office 激活](https://github.com/zbezj/HEU_KMS_Activator/releases)
+
+### Adobe
+- [GenP Wiki](https://www.reddit.com/r/GenP/wiki/index/)
+- [破解方式有哪些](https://www.reddit.com/r/GenP/wiki/patchmethods/)
+
 ## 吐槽
 - 说 windows 也可以开发的试试，不改代码跑一下这个。只能在 git-bash 之类的 shell 运行
   - https://github.com/VisActor/VRender/blob/b9dbbe081171bdfcf2677f6e6c4dbe01fee51c99/tools/bundler/package.json#L18
