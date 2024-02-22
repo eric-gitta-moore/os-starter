@@ -17,8 +17,11 @@
 
 ## 其他
 - [Chocolatey Software | Packages](https://community.chocolatey.org/packages)
+
+### WSL
 - WSL 配置一条龙：https://james-curtis.github.io/2023/ubuntu-setup-summary/
 - [hyper-v 随机保留端口号剔除](https://juejin.cn/post/7214854106179321911)
+- [禁止 Zone.Identifier](https://github.com/microsoft/WSL/issues/7456#issuecomment-1172877312)
 
 ### Office
 - [Office Tool Plus](https://otp.landian.vip/zh-cn/)
