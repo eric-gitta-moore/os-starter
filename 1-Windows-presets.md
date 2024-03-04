@@ -7,7 +7,7 @@
 - Clash.Nyanpasu、
 - chocolatey、Windows 11 Classic Context Menu
 - utools、FastGestures、powertoys、Ctrl2Cap、AutoHotKey、autoruns
-- windterm、conda、git、7zip、bandizip
+- windterm、trzsz-ssh、conda、git、7zip、bandizip
 - ~~vagrant、VMware workstation、virtualbox、WSL~~
 - QuickLook、OpenHashTab
 
