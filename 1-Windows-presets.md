@@ -25,7 +25,9 @@
 
 ### Office
 - [Office Tool Plus](https://otp.landian.vip/zh-cn/)
-- [Windows / Office 激活](https://github.com/zbezj/HEU_KMS_Activator/releases)
+- 激活
+  - [Windows / Office 激活](https://github.com/zbezj/HEU_KMS_Activator/releases)
+  - https://github.com/massgravel/Microsoft-Activation-Scripts
 
 ### Adobe
 - [GenP Wiki](https://www.reddit.com/r/GenP/wiki/index/)
