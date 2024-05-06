@@ -3,7 +3,7 @@
 ## 必备软件
 - 腾讯柠檬、utools、scroll reverser、Snipaste
 - homebrew、[p10k](https://eric-gitta-moore.github.io/2023/zsh-install-powerlevel10k-install-the-p10k-plug-in/)、windterm、trzsz-ssh
-- maczip、qspace pro
+- maczip、qspace pro、Hidden Bar
 - [office](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a)
 - ITraffic-monitor-for-mac
 
