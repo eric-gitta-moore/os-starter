@@ -5,6 +5,7 @@
 - homebrew、[p10k](https://eric-gitta-moore.github.io/2023/zsh-install-powerlevel10k-install-the-p10k-plug-in/)、windterm、trzsz-ssh
 - maczip、qspace pro
 - [office](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a)
+- ITraffic-monitor-for-mac
 
 ## 必须设置
 - 时钟显秒
