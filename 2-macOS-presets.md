@@ -1,11 +1,11 @@
 # macOS Presets
 
 ## 必备软件
-- 腾讯柠檬、utools、scroll reverser、Snipaste
+- 腾讯柠檬
 - homebrew、[p10k](https://eric-gitta-moore.github.io/2023/zsh-install-powerlevel10k-install-the-p10k-plug-in/)、windterm、trzsz-ssh
 - maczip、qspace pro
 - 效率
-  - alt-tab-macos、Hidden Bar
+  - alt-tab-macos、Hidden Bar、utools、scroll reverser、Snipaste
 - 监控
   - Traffic、coconutBattery
 - [office](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a)
