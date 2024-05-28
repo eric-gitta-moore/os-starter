@@ -8,5 +8,4 @@
 
 ### 其他软件
 - web 文件资源管理器
-  - cloudcmd
-  - Cloudreve
+  - alist
