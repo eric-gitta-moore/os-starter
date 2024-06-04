@@ -28,3 +28,6 @@
 
 ### 其他软件
 - 快捷键冲突检测 - ShortcutDetective
+
+## 壁纸
+- [macOS索诺马-现实生活的回归壁纸](https://www.dylanmcd.com/blog/macos-sonoma-wallpapers/)
