@@ -7,7 +7,7 @@
 - 效率
   - alt-tab-macos、utools、scroll reverser、Hidden Bar、Snipaste、Kap
 - 监控
-  - Traffic、coconutBattery
+  - ~~Traffic~~、coconutBattery、stats
 - 开发
   - OrbStack
 - [office](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a)
