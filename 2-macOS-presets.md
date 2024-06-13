@@ -1,17 +1,18 @@
 # macOS Presets
 
 ## 必备软件
-- 腾讯柠檬
-- homebrew、[p10k](https://eric-gitta-moore.github.io/2023/zsh-install-powerlevel10k-install-the-p10k-plug-in/)、windterm、trzsz-ssh
-- maczip、qspace pro
+- 监控
+  - 腾讯柠檬、~~Traffic~~、coconutBattery、stats
+- 开发
+  - homebrew、p10k、windterm、~~trzsz-ssh~~
+  - OrbStack
+- 文件管理
+  - maczip、qspace pro
 - 效率
   - alt-tab-macos、utools、scroll reverser、Hidden Bar、Snipaste、Kap
-- 监控
-  - ~~Traffic~~、coconutBattery、stats
-- 开发
-  - OrbStack
-- [office](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a)
-- Adobe
+- 文职工作
+  - [office](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a)
+  - Adobe
 - 摸鱼专用
   - ~~[空气键盘](https://xtool.club/app/airkeyboard)~~（还是微信输入法算了）、~~Typeeto~~
 
