@@ -16,13 +16,12 @@
 - 摸鱼专用
   - ~~[空气键盘](https://xtool.club/app/airkeyboard)~~（还是微信输入法算了）、~~Typeeto~~
 
-## 必须设置
-- 时钟显秒
-- 电量显示百分比
+## 必选设置
+- 调整时间格式
 - 三指滑动选中
 - caps2ctrl
 
-## 有用
+## 参考
 - https://44maker.github.io/wiki/Mac/index.html
 - [强迫症的 Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac)
 - [📝 新 Macbook Pro 装机记录](https://www.rustc.cloud/mac-install)
