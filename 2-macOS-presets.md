@@ -21,6 +21,7 @@
 - 三指滑动选中
 - caps2ctrl
 - [避免 XprotectService](https://catcoding.me/p/apple-perf/)
+- [关闭 Spotlight Search 索引功能](https://blog.csdn.net/hadues/article/details/127889004)
 
 ## 参考
 - https://44maker.github.io/wiki/Mac/index.html
