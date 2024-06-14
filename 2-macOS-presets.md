@@ -20,6 +20,7 @@
 - 调整时间格式
 - 三指滑动选中
 - caps2ctrl
+- [避免 XprotectService](https://catcoding.me/p/apple-perf/)
 
 ## 参考
 - https://44maker.github.io/wiki/Mac/index.html
