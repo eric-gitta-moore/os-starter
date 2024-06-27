@@ -15,6 +15,8 @@
   - Adobe
 - 摸鱼专用
   - ~~[空气键盘](https://xtool.club/app/airkeyboard)~~（还是微信输入法算了）、~~Typeeto~~
+- 命令行工具
+  - dig 替代品 dog
 
 ## 必选设置
 - 调整时间格式
