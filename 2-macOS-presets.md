@@ -14,7 +14,7 @@
   - [office](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a)
   - Adobe
 - 摸鱼专用
-  - ~~[空气键盘](https://xtool.club/app/airkeyboard)~~（还是微信输入法算了）、~~Typeeto~~
+  - [空气键盘](https://xtool.club/app/airkeyboard)、~~Typeeto~~
 - 命令行工具
   - dig 替代品 dog
 
