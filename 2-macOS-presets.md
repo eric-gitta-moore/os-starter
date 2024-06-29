@@ -25,6 +25,9 @@
 - [避免 XprotectService](https://catcoding.me/p/apple-perf/)
 - [关闭 Spotlight Search 索引功能](https://blog.csdn.net/hadues/article/details/127889004)
 
+## 公车私用
+- [在线预览各种文件避免逃逸出浏览器环境被检测 kkFileView](https://github.com/kekingcn/kkFileView)
+
 ## 参考
 - https://44maker.github.io/wiki/Mac/index.html
 - [强迫症的 Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac)
