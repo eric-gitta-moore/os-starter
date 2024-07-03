@@ -9,7 +9,7 @@
 - 文件管理
   - maczip、qspace pro
 - 效率
-  - alt-tab-macos、utools、scroll reverser、Hidden Bar、Snipaste、Kap
+  - alt-tab-macos、utools、scroll reverser、Hidden Bar、Snipaste、Kap、QuickRecorder
 - 文职工作
   - [office](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a)
   - Adobe
