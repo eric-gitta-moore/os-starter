@@ -20,6 +20,7 @@
   - tldr 命令行帮助
   - [vimrc 默认配置](https://github.com/amix/vimrc)
   - [eza: 更好的 ls](https://github.com/eza-community/eza)
+  - [命令行临时找文件 ranger](https://github.com/ranger/ranger)
 
 ## 必选设置
 - 调整时间格式
