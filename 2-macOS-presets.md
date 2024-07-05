@@ -18,6 +18,7 @@
 - 命令行工具
   - dig 替代品 dog
   - tldr 命令行帮助
+  - [vimrc 默认配置](https://github.com/amix/vimrc)
 
 ## 必选设置
 - 调整时间格式
