@@ -17,6 +17,7 @@
   - [空气键盘](https://xtool.club/app/airkeyboard)、~~Typeeto~~
 - 命令行工具
   - dig 替代品 dog
+  - tldr 命令行帮助
 
 ## 必选设置
 - 调整时间格式
