@@ -2,9 +2,9 @@
 
 ## 必备软件
 - 监控
-  - 腾讯柠檬、~~Traffic~~、coconutBattery、stats
+  - 腾讯柠檬、coconutBattery、stats
 - 开发
-  - homebrew、p10k、windterm、~~trzsz-ssh~~
+  - homebrew、p10k、windterm、trzsz-ssh
   - OrbStack
 - 文件管理
   - maczip、qspace pro
@@ -14,7 +14,7 @@
   - [office](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a)
   - Adobe
 - 摸鱼专用
-  - [空气键盘](https://xtool.club/app/airkeyboard)、~~Typeeto~~
+  - [空气键盘](https://xtool.club/app/airkeyboard)
 - 命令行工具
   - dig 替代品 dog
   - tldr 命令行帮助
