@@ -4,10 +4,10 @@
 - 监控
   - 腾讯柠檬、coconutBattery、stats
 - 开发
-  - homebrew、p10k、windterm、trzsz-ssh
+  - homebrew、p10k、trzsz-ssh
   - OrbStack
 - 文件管理
-  - maczip、qspace pro
+  - maczip
 - 效率
   - alt-tab-macos、utools、scroll reverser、Hidden Bar、Snipaste、Kap
 - 文职工作
