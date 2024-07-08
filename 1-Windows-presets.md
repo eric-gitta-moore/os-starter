@@ -5,8 +5,8 @@
 ## 必备软件
 - 火绒、
 - chocolatey、Windows 11 Classic Context Menu
-- utools、FastGestures、powertoys、Ctrl2Cap、AutoHotKey、autoruns
-- windterm、trzsz-ssh、conda、git、7zip、bandizip
+- utools、FastGestures、powertoys、Ctrl2Cap、AutoHotKey、autoruns 查开机自启的
+- windterm、conda、git、7zip、bandizip
 - ~~vagrant、VMware workstation、virtualbox、WSL~~
 - QuickLook、OpenHashTab
 
