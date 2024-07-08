@@ -16,8 +16,8 @@
 - 摸鱼专用
   - [空气键盘](https://xtool.club/app/airkeyboard)
 - 命令行工具
-  - dig 替代品 dog
-  - tldr 命令行帮助
+  - [dig 替代品 dog](https://github.com/ogham/dog)
+  - [tldr 命令行帮助](https://github.com/tldr-pages/tldr)
   - [vimrc 默认配置](https://github.com/amix/vimrc)
   - [eza: 更好的 ls](https://github.com/eza-community/eza)
   - [命令行临时找文件 ranger](https://github.com/ranger/ranger)
