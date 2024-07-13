@@ -11,7 +11,7 @@
 - 效率
   - alt-tab-macos、utools、scroll reverser、Hidden Bar、Snipaste、Kap
 - 文职工作
-  - [office](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a)
+  - [office](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) (Include Apple Silicon)
   - Adobe
 - 摸鱼专用
   - [空气键盘](https://xtool.club/app/airkeyboard)
