@@ -10,6 +10,8 @@
   - maczip、bandizip
 - 效率
   - alt-tab-macos、utools、scroll reverser、Hidden Bar、Snipaste、Kap
+- 清理
+  - appcleaner、OmniDiskSweeper
 - 文职工作
   - [office](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) (Include Apple Silicon)
   - Adobe
