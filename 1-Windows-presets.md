@@ -9,6 +9,8 @@
 - windterm、conda、git、7zip、bandizip
 - ~~vagrant、VMware workstation、virtualbox、WSL~~
 - QuickLook、OpenHashTab
+- 网络调试
+  - NETworkManager
 
 ## 必要设置
 - 卓越性能
