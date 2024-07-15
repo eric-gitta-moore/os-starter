@@ -6,6 +6,7 @@
 - 开发
   - homebrew、p10k、trzsz-ssh
   - OrbStack
+  - proxyman（感觉比 charles 好用点）
 - 文件管理
   - maczip、bandizip
 - 效率
