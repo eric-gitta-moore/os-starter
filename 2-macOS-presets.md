@@ -25,6 +25,9 @@
   - [eza: 更好的 ls](https://github.com/eza-community/eza)
   - [命令行临时找文件 ranger](https://github.com/ranger/ranger)
 
+## 运维工具
+- AmorphousDiskMark
+
 ## 必选设置
 - 调整时间格式
 - 三指滑动选中
