@@ -18,6 +18,8 @@
   - Adobe、Acrobat (可以替代 windows 下 wps 全局搜索时候显示的附近文字，搞成一个列表，方便查找)
 - 摸鱼专用
   - [空气键盘](https://xtool.club/app/airkeyboard)
+- 运维
+  - opentrace（比 ipip.net 那个好使多了）
 - 命令行工具
   - [dig 替代品 dog](https://github.com/ogham/dog)
   - [tldr 命令行帮助](https://github.com/tldr-pages/tldr)
