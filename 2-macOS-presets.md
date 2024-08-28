@@ -11,6 +11,7 @@
   - maczip、bandizip
 - 效率
   - alt-tab-macos、utools、scroll reverser、Hidden Bar、Snipaste、Kap
+  - Karabiner-Elements 改键盘
 - 清理
   - appcleaner、~~OmniDiskSweeper~~(扫描太慢了，不如 lemon)
 - 文职工作
