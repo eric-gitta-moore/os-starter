@@ -27,6 +27,7 @@
   - [vimrc 默认配置](https://github.com/amix/vimrc)
   - [eza: 更好的 ls](https://github.com/eza-community/eza)
   - [命令行临时找文件 ranger](https://github.com/ranger/ranger)
+  - x-cmd
 
 ## 运维工具
 - AmorphousDiskMark
