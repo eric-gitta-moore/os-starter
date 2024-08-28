@@ -4,7 +4,7 @@
 - 监控
   - 腾讯柠檬、coconutBattery、stats
 - 开发
-  - homebrew、p10k、trzsz-ssh
+  - homebrew、p10k
   - OrbStack
   - proxyman（感觉比 charles 好用点）
 - 文件管理
