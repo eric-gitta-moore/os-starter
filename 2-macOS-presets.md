@@ -10,8 +10,9 @@
 - 文件管理
   - maczip、bandizip
 - 效率
-  - alt-tab-macos、utools、scroll reverser、Hidden Bar、Snipaste、Kap
-  - Karabiner-Elements 改键盘、hyper 键
+  - alt-tab-macos、utools、scroll reverser、Snipaste、Kap
+  - ~~Hidden Bar~~、Bartender 5
+  - ~~Karabiner-Elements 改键盘、hyper 键~~
 - 清理
   - appcleaner、~~OmniDiskSweeper~~(扫描太慢了，不如 lemon)
 - 文职工作
