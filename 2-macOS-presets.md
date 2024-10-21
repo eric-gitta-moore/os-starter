@@ -13,13 +13,14 @@
   - alt-tab-macos、utools、scroll reverser、Snipaste、Kap
   - ~~Hidden Bar~~、Bartender 5
   - ~~Karabiner-Elements 改键盘、hyper 键~~
+  - BetterDisplay
 - 清理
   - appcleaner、~~OmniDiskSweeper~~(扫描太慢了，不如 lemon)
 - 文职工作
   - [office](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) (Include Apple Silicon)
   - Adobe、Acrobat (可以替代 windows 下 wps 全局搜索时候显示的附近文字，搞成一个列表，方便查找)
 - 摸鱼专用
-  - [空气键盘](https://xtool.club/app/airkeyboard)
+  - [空气键盘](https://xtool.club/app/airkeyboard) 不太那么方便，还是用微信输入法吧
 - 运维
   - opentrace（比 ipip.net 那个好使多了）
 - 命令行工具
