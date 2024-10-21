@@ -13,7 +13,7 @@
   - alt-tab-macos、utools、scroll reverser、Snipaste、Kap
   - ~~Hidden Bar~~、Bartender 5
   - ~~Karabiner-Elements 改键盘、hyper 键~~
-  - BetterDisplay
+  - BetterDisplay（自定义分辨率、外接屏幕管理）、DeskPad（开源虚拟屏画中画）
 - 清理
   - appcleaner、~~OmniDiskSweeper~~(扫描太慢了，不如 lemon)
 - 文职工作
