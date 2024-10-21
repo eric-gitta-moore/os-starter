@@ -38,6 +38,7 @@
 - caps2ctrl
 - [避免 XprotectService](https://catcoding.me/p/apple-perf/)
 - [关闭 Spotlight Search 索引功能](https://blog.csdn.net/hadues/article/details/127889004)
+- BetterDisplay 改分辨率 1920*1200
 
 ## 公车私用
 - 在线预览各种文件避免逃逸出浏览器环境被检测 [kkFileView](https://github.com/kekingcn/kkFileView)
