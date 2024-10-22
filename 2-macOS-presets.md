@@ -19,7 +19,7 @@
   - ~~appcleaner~~、~~OmniDiskSweeper~~(扫描太慢了，不如 lemon)
 - 文职工作
   - [office](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) (Include Apple Silicon)
-  - Adobe、Acrobat (可以替代 windows 下 wps 全局搜索时候显示的附近文字，搞成一个列表，方便查找)
+  - Adobe、Acrobat (可以替代 windows 下 wps 全局搜索时候显示的附近文字，搞成一个列表，方便查找)、[ABBYY](https://github.com/eric-gitta-moore/abbyy-fine-reader-crack)
 - 摸鱼专用
   - [空气键盘](https://xtool.club/app/airkeyboard) 不太那么方便，还是用微信输入法吧
 - 运维
