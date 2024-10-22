@@ -8,7 +8,7 @@
   - OrbStack
   - proxyman（感觉比 charles 好用点）
 - 文件管理
-  - maczip、bandizip
+  - bandizip
 - 效率
   - alt-tab-macos、utools、scroll reverser、Snipaste
   - OBS、Kap (支持 Gif 录屏)
