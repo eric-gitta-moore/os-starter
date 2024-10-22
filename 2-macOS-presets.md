@@ -2,7 +2,7 @@
 
 ## 必备软件
 - 监控
-  - 腾讯柠檬、coconutBattery、stats
+  - 腾讯柠檬、~~coconutBattery~~ (stats 替代)、stats
 - 开发
   - homebrew、p10k
   - OrbStack
