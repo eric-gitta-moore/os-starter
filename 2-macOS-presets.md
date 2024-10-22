@@ -16,7 +16,7 @@
   - BetterDisplay（自定义分辨率、外接屏幕管理）、DeskPad（开源虚拟屏画中画）
   - ~~VB-Cable~~、Loopback、Audio Hijack
 - 清理
-  - appcleaner、~~OmniDiskSweeper~~(扫描太慢了，不如 lemon)
+  - ~~appcleaner~~、~~OmniDiskSweeper~~(扫描太慢了，不如 lemon)
 - 文职工作
   - [office](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) (Include Apple Silicon)
   - Adobe、Acrobat (可以替代 windows 下 wps 全局搜索时候显示的附近文字，搞成一个列表，方便查找)
