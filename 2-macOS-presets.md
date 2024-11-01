@@ -15,7 +15,7 @@
   - ~~Hidden Bar~~、Bartender 5
   - ~~Karabiner-Elements 改键盘、hyper 键~~
   - BetterDisplay（自定义分辨率、外接屏幕管理）、DeskPad（开源虚拟屏画中画）
-  - ~~VB-Cable~~、Loopback、Audio Hijack
+  - ~~VB-Cable~~、Loopback、Audio Hijack、SoundSource
 - 清理
   - ~~appcleaner~~、~~OmniDiskSweeper~~(扫描太慢了，不如 lemon)
 - 文职工作
