@@ -2,34 +2,28 @@
 
 ## 必备软件
 - 监控
-  - 腾讯柠檬、~~coconutBattery~~ (stats 替代)、stats
+  - 腾讯柠檬、stats
 - 开发
   - homebrew、p10k
   - OrbStack
 - 文件管理
   - bandizip
 - 效率
-  - alt-tab-macos、utools、scroll reverser、Snipaste
+  - alt-tab-macos、utools、Snipaste
   - OBS、Kap (支持 Gif 录屏)
-  - ~~Hidden Bar~~、[Bartender 5](https://xclient.info/s/bartender.html)
-  - ~~Karabiner-Elements 改键盘、hyper 键~~
-  - BetterDisplay（自定义分辨率、外接屏幕管理、画中画破解就完事了）、~~DeskPad（开源虚拟屏画中画）~~
+  - [Bartender 5](https://xclient.info/s/bartender.html)
+  - BetterDisplay（自定义分辨率、外接屏幕管理、画中画破解就完事了）
 - 音频
-  - ~~VB-Cable~~、Loopback、~~Audio Hijack (没必要)~~、SoundSource
-- 清理
-  - ~~appcleaner~~、~~OmniDiskSweeper~~(扫描太慢了，不如 lemon)
+  - Loopback、SoundSource
 - 文职工作
   - [office](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) (Include Apple Silicon)
   - Adobe、Acrobat (可以替代 windows 下 wps 全局搜索时候显示的附近文字，搞成一个列表，方便查找)、[ABBYY](https://github.com/eric-gitta-moore/abbyy-fine-reader-crack)
-- 摸鱼专用
-  - [空气键盘](https://xtool.club/app/airkeyboard) 不太那么方便，还是用微信输入法吧
-- 运维
-  - opentrace（比 ipip.net 那个好使多了）
 - 命令行工具
   - [dig 替代品 dog](https://github.com/ogham/dog)
   - [tldr 命令行帮助](https://github.com/tldr-pages/tldr)
   - [vimrc 默认配置](https://github.com/amix/vimrc)
   - x-cmd
+  - opentrace（比 ipip.net 那个好使多了）
 
 ## 运维工具
 - AmorphousDiskMark
