@@ -34,6 +34,8 @@
 ## 其他软件
 - 快捷键冲突检测 - ShortcutDetective
 - [EdrawMax(亿图图示)](https://macked.app/edrawmax-crack.html)
+- [Proxyman](https://appstorrent.ru/2551-proxyman-premium.html)
+- 
 
 ## 必选设置
 - 调整时间格式
