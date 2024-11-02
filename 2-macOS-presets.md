@@ -1,4 +1,4 @@
-![CleanShot 2024-11-03 at 03 05 55](https://github.com/user-attachments/assets/210a2fe5-8f45-41ca-9d0a-563f03f8f2a9)# macOS Presets
+# macOS Presets
 
 ## 必备软件
 - 监控
