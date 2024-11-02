@@ -13,7 +13,7 @@
   - OBS、Kap (支持 Gif 录屏)
   - ~~Hidden Bar~~、[Bartender 5](https://xclient.info/s/bartender.html)
   - ~~Karabiner-Elements 改键盘、hyper 键~~
-  - BetterDisplay（自定义分辨率、外接屏幕管理）、DeskPad（开源虚拟屏画中画）
+  - BetterDisplay（自定义分辨率、外接屏幕管理、画中画破解就完事了）、~~DeskPad（开源虚拟屏画中画）~~
 - 音频
   - ~~VB-Cable~~、Loopback、~~Audio Hijack (没必要)~~、SoundSource
 - 清理
