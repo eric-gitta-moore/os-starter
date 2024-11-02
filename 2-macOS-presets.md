@@ -49,6 +49,7 @@
 
 ### 其他软件
 - 快捷键冲突检测 - ShortcutDetective
+- [EdrawMax(亿图图示)](https://macked.app/edrawmax-crack.html)
 
 ## 壁纸
 - [macOS索诺马-现实生活的回归壁纸](https://www.dylanmcd.com/blog/macos-sonoma-wallpapers/)
