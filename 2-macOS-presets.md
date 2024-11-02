@@ -1,4 +1,4 @@
-# macOS Presets
+![CleanShot 2024-11-03 at 03 05 55](https://github.com/user-attachments/assets/210a2fe5-8f45-41ca-9d0a-563f03f8f2a9)# macOS Presets
 
 ## 必备软件
 - 监控
@@ -10,7 +10,7 @@
   - ForkLift、[FileZilla Pro](https://github.com/eric-gitta-moore/FileZilla-Pro)
   - bandizip
 - 效率
-  - alt-tab-macos、utools、[iShot](https://macked.app/ishot-pro-crack.html)
+  - alt-tab-macos、utools、[CleanShot X](https://macked.app/cleanshot-x-crack.html)
   - OBS、Kap (支持 Gif 录屏)、KeyCastr、ScreenBrush
   - [Bartender 5](https://xclient.info/s/bartender.html)
   - BetterDisplay（自定义分辨率、外接屏幕管理、画中画破解就完事了）
