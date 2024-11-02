@@ -6,7 +6,6 @@
 - 开发
   - homebrew、p10k
   - OrbStack
-  - proxyman（感觉比 charles 好用点）
 - 文件管理
   - bandizip
 - 效率
@@ -15,6 +14,7 @@
   - ~~Hidden Bar~~、Bartender 5
   - ~~Karabiner-Elements 改键盘、hyper 键~~
   - BetterDisplay（自定义分辨率、外接屏幕管理）、DeskPad（开源虚拟屏画中画）
+- 音频
   - ~~VB-Cable~~、Loopback、~~Audio Hijack (没必要)~~、SoundSource
 - 清理
   - ~~appcleaner~~、~~OmniDiskSweeper~~(扫描太慢了，不如 lemon)
