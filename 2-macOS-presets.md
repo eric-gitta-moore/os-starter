@@ -10,7 +10,7 @@
   - ForkLift、[FileZilla Pro](https://github.com/eric-gitta-moore/FileZilla-Pro)
   - bandizip
 - 效率
-  - alt-tab-macos、utools、iShot
+  - alt-tab-macos、utools、[iShot](https://macked.app/ishot-pro-crack.html)
   - OBS、Kap (支持 Gif 录屏)、KeyCastr、ScreenBrush
   - [Bartender 5](https://xclient.info/s/bartender.html)
   - BetterDisplay（自定义分辨率、外接屏幕管理、画中画破解就完事了）
