@@ -7,6 +7,7 @@
   - homebrew、p10k
   - OrbStack
 - 文件管理
+  - ForkLift
   - bandizip
 - 效率
   - alt-tab-macos、utools、Snipaste
