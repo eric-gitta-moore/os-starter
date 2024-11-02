@@ -18,7 +18,7 @@
   - Loopback、SoundSource
 - 文职工作
   - [office](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) (Include Apple Silicon)
-  - Adobe、Acrobat (可以替代 windows 下 wps 全局搜索时候显示的附近文字，搞成一个列表，方便查找)、PDF Expert、[ABBYY](https://github.com/eric-gitta-moore/abbyy-fine-reader-crack)
+  - Adobe、Acrobat (可以替代 windows 下 wps 全局搜索时候显示的附近文字，搞成一个列表，方便查找)、[PDF Expert](https://appstorrent.ru/122-pdfexpert.html)、[ABBYY](https://github.com/eric-gitta-moore/abbyy-fine-reader-crack)
 - 互操作性
   - [Paragon NTFS](https://macked.app/paragon-ntfs-crack.html)
 - 命令行工具
