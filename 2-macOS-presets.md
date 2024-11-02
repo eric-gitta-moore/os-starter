@@ -31,6 +31,10 @@
 ## 运维工具
 - AmorphousDiskMark
 
+## 其他软件
+- 快捷键冲突检测 - ShortcutDetective
+- [EdrawMax(亿图图示)](https://macked.app/edrawmax-crack.html)
+
 ## 必选设置
 - 调整时间格式
 - 三指滑动选中
@@ -48,10 +52,6 @@
 - [📝 新 Macbook Pro 装机记录](https://www.rustc.cloud/mac-install)
 - [从 Windows 到 macOS](https://halo.sherlocky.com/archives/macos)
   - https://web.archive.org/web/20240706022526/https://halo.sherlocky.com/archives/macos
-
-### 其他软件
-- 快捷键冲突检测 - ShortcutDetective
-- [EdrawMax(亿图图示)](https://macked.app/edrawmax-crack.html)
 
 ## 壁纸
 - [macOS索诺马-现实生活的回归壁纸](https://www.dylanmcd.com/blog/macos-sonoma-wallpapers/)
