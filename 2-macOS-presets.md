@@ -38,6 +38,7 @@
 - Proxyman
 - Beyond Compare
 - NTFSfor Mac
+- Tailscale
 
 ## 必选设置
 - 调整时间格式
