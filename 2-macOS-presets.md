@@ -15,6 +15,7 @@
   - [Bartender 5](https://xclient.info/s/bartender.html)
   - BetterDisplay（自定义分辨率、外接屏幕管理、画中画破解就完事了）
   - iCopy
+  - 有道翻译
 - 音频
   - Loopback、SoundSource
 - 文职工作
