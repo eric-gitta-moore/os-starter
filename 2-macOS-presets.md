@@ -39,6 +39,7 @@
 - Beyond Compare
 - NTFSfor Mac
 - Tailscale
+- FileZilla Pro
 
 ## 必选设置
 - 调整时间格式
