@@ -10,7 +10,7 @@
   - ForkLift、[FileZilla Pro](https://github.com/eric-gitta-moore/FileZilla-Pro)
   - bandizip
 - 效率
-  - alt-tab-macos、utools、Snipaste、[CleanShot X](https://macked.app/cleanshot-x-crack.html) (支持长截图、GIF、录屏)
+  - alt-tab-macos、utools、iShot、[CleanShot X](https://macked.app/cleanshot-x-crack.html) (支持长截图、GIF、录屏)
   - OBS、KeyCastr、ScreenBrush
   - [Bartender 5](https://xclient.info/s/bartender.html)
   - BetterDisplay（自定义分辨率、外接屏幕管理、画中画破解就完事了）
