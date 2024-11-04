@@ -12,7 +12,7 @@
 - 效率
   - alt-tab-macos、utools、iShot、[CleanShot X](https://macked.app/cleanshot-x-crack.html) (支持长截图、GIF、录屏)
   - OBS、KeyCastr、ScreenBrush
-  - [Ice](https://github.com/jordanbaird/Ice) (开源完美替代 Bartender)
+  - [Ice](https://github.com/jordanbaird/Ice) (比 Bartender 更好使)
   - BetterDisplay（自定义分辨率、外接屏幕管理、画中画破解就完事了）
   - iCopy
   - 有道翻译
