@@ -7,7 +7,7 @@
   - homebrew、p10k
   - OrbStack
 - 文件管理
-  - ~~ForkLift~~、[FileZilla Pro](https://github.com/eric-gitta-moore/FileZilla-Pro)
+  - [FileZilla Pro](https://github.com/eric-gitta-moore/FileZilla-Pro)
   - bandizip
 - 效率
   - alt-tab-macos、utools、Snipaste、[CleanShot X](https://macked.app/cleanshot-x-crack.html)、iCopy
