@@ -19,7 +19,6 @@
   - Loopback、SoundSource
 - 文职工作
   - [office](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) (Include Apple Silicon)
-  - Adobe、[Acrobat](https://appstorrent.ru/97-adobe-acrobat-pro-dc.html)、[PDF Expert](https://appstorrent.ru/122-pdfexpert.html)、[ABBYY](https://github.com/eric-gitta-moore/abbyy-fine-reader-crack)
 - 互操作性
   - [Paragon NTFS](https://macked.app/paragon-ntfs-crack.html)
 - 命令行工具
