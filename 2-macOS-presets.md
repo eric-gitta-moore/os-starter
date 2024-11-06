@@ -10,7 +10,7 @@
   - [FileZilla Pro](https://github.com/eric-gitta-moore/FileZilla-Pro)
   - bandizip
 - 效率
-  - alt-tab-macos、utools、iShot、Snipaste、[CleanShot X](https://macked.app/cleanshot-x-crack.html)、iCopy
+  - alt-tab-macos、utools、iShot (多屏贴图)、Snipaste (截图)、[CleanShot X](https://macked.app/cleanshot-x-crack.html) (gif、轻量编辑)、iCopy
   - OBS、KeyCastr、ScreenBrush
   - [Ice](https://github.com/jordanbaird/Ice) (比 Bartender 更好使)
   - BetterDisplay（自定义分辨率、外接屏幕管理、画中画破解就完事了）、DeskPad
