@@ -16,7 +16,7 @@
   - BetterDisplay（自定义分辨率、外接屏幕管理、画中画破解就完事了）、DeskPad
   - 有道翻译 (截图翻译)
 - 音频
-  - Loopback、SoundSource
+  - Loopback、SoundSource、Audio Hijack (支持直接用 `AUSoundisolation` 和 VST)
 - 文职工作
   - [office](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) (Include Apple Silicon)
 - 互操作性
