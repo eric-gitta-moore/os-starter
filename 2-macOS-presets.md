@@ -40,6 +40,7 @@
 - NTFSfor Mac
 - Tailscale
 - FileZilla Pro
+- CrossOver
 
 ## 必选设置
 - 调整时间格式
