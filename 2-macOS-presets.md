@@ -9,6 +9,7 @@
 - 文件管理
   - [FileZilla Pro](https://github.com/eric-gitta-moore/FileZilla-Pro)
   - bandizip
+  - AppCleaner (有些破解软件 lemon 扫描不到好像，这个可以)
 - 效率
   - alt-tab-macos、utools、iShot (多屏贴图)、Snipaste (截图)、[CleanShot X](https://macked.app/cleanshot-x-crack.html) (gif、轻量编辑)、iCopy
   - OBS、KeyCastr、ScreenBrush
