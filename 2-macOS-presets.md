@@ -19,7 +19,7 @@
 - 输入
   - macOS Dictation
 - 实时字幕
-  - subtitlo、BeMyEars
+  - ~~subtitlo~~、BeMyEars
 - 音频
   - Loopback、SoundSource、Audio Hijack (支持直接用 `AUSoundisolation` 和 VST)
 - 文职工作
