@@ -16,6 +16,10 @@
   - [Ice](https://github.com/jordanbaird/Ice) (比 Bartender 更好使)
   - BetterDisplay（自定义分辨率、外接屏幕管理、画中画破解就完事了）、DeskPad
   - 有道翻译 (截图翻译)
+- 输入
+  - macOS Dictation
+- 实时字幕
+  - subtitlo、BeMyEars
 - 音频
   - Loopback、SoundSource、Audio Hijack (支持直接用 `AUSoundisolation` 和 VST)
 - 文职工作
