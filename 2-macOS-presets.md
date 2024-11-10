@@ -45,6 +45,7 @@
 - Tailscale
 - FileZilla Pro
 - CrossOver
+- [Adobe Creative Cloud Cleaner Tool](https://gist.github.com/gadzhimari/5f79b95b0ef73d794c483b47294a5ab4)
 
 ## 必选设置
 - 调整时间格式
