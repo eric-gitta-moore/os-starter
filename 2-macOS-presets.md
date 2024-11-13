@@ -33,20 +33,6 @@
   - x-cmd
   - opentrace（比 ipip.net 那个好使多了）
 
-## 运维工具
-- AmorphousDiskMark
-
-## 其他软件
-- 快捷键冲突检测 - ShortcutDetective
-- EdrawMax(亿图图示)
-- Proxyman
-- Beyond Compare
-- NTFSfor Mac
-- Tailscale
-- FileZilla Pro
-- CrossOver
-- [Adobe Creative Cloud Cleaner Tool](https://gist.github.com/gadzhimari/5f79b95b0ef73d794c483b47294a5ab4)
-
 ## 必选设置
 - 调整时间格式
 - 三指滑动选中
@@ -54,9 +40,6 @@
 - [避免 XprotectService](https://catcoding.me/p/apple-perf/)
 - [关闭 Spotlight Search 索引功能](https://blog.csdn.net/hadues/article/details/127889004)
 - BetterDisplay 改分辨率 1920*1200
-
-## 公车私用
-- 在线预览各种文件避免逃逸出浏览器环境被检测 [kkFileView](https://github.com/kekingcn/kkFileView)
 
 ## 参考
 - https://44maker.github.io/wiki/Mac/index.html
