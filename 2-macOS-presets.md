@@ -7,11 +7,10 @@
   - homebrew、p10k
   - OrbStack
 - 文件管理
-  - [FileZilla Pro](https://github.com/eric-gitta-moore/FileZilla-Pro)
   - bandizip
   - AppCleaner (有些破解软件 lemon 扫描不到好像，这个可以)
 - 效率
-  - alt-tab-macos、utools、iShot (多屏贴图)、Snipaste (截图)、[CleanShot X](https://macked.app/cleanshot-x-crack.html) (gif、轻量编辑)、iCopy
+  - alt-tab-macos、utools、iShot (多屏贴图)、Snipaste (截图)、CleanShot X (gif、轻量编辑)、iCopy
   - OBS、KeyCastr、ScreenBrush
   - [Ice](https://github.com/jordanbaird/Ice) (比 Bartender 更好使)
   - BetterDisplay（自定义分辨率、外接屏幕管理、画中画破解就完事了）、DeskPad
@@ -24,8 +23,6 @@
   - Loopback、SoundSource、Audio Hijack (支持直接用 `AUSoundisolation` 和 VST)
 - 文职工作
   - [office](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) (Include Apple Silicon)
-- 互操作性
-  - [Paragon NTFS](https://macked.app/paragon-ntfs-crack.html)
 - 命令行工具
   - [dig 替代品 dog](https://github.com/ogham/dog)
   - [tldr 命令行帮助](https://github.com/tldr-pages/tldr)
