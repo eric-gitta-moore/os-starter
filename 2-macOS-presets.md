@@ -2,13 +2,13 @@
 
 ## 必备软件
 - 监控
-  - 腾讯柠檬、Mx Power Gadget、iStat Menus
+  - Mx Power Gadget、iStat Menus
 - 开发
   - homebrew、p10k
   - OrbStack
-- 文件管理
+- 文件管理 / 清理
   - bandizip
-  - AppCleaner (有些破解软件 lemon 扫描不到好像，这个可以)
+  - 腾讯柠檬、AppCleaner
 - 效率
   - alt-tab-macos、utools、iShot (多屏贴图)、Snipaste (截图)、CleanShot X (gif、轻量编辑)、iCopy
   - OBS、KeyCastr、ScreenBrush
