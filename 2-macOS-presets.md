@@ -21,6 +21,8 @@
   - BeMyEars
 - 音频
   - Loopback、SoundSource、Audio Hijack (支持直接用 `AUSoundisolation` 和 VST)
+- 监控
+  - Mx Power Gadget
 - 文职工作
   - [office](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) (Include Apple Silicon)
 - 命令行工具
