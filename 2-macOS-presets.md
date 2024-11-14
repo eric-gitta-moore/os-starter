@@ -2,7 +2,7 @@
 
 ## 必备软件
 - 监控
-  - 腾讯柠檬、Mx Power Gadget
+  - 腾讯柠檬、Mx Power Gadget、iStat Menus
 - 开发
   - homebrew、p10k
   - OrbStack
