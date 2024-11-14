@@ -2,7 +2,7 @@
 
 ## 必备软件
 - 监控
-  - 腾讯柠檬、~~iStat Menus (功耗统计不准)~~、
+  - 腾讯柠檬、~~iStat Menus (功耗统计不准)~~、Mx Power Gadget
 - 开发
   - homebrew、p10k
   - OrbStack
@@ -21,8 +21,6 @@
   - BeMyEars
 - 音频
   - Loopback、SoundSource、Audio Hijack (支持直接用 `AUSoundisolation` 和 VST)
-- 监控
-  - Mx Power Gadget
 - 文职工作
   - [office](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) (Include Apple Silicon)
 - 命令行工具
