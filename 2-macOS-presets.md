@@ -2,7 +2,7 @@
 
 ## 必备软件
 - 监控
-  - 腾讯柠檬、iStat Menus
+  - 腾讯柠檬、~~iStat Menus (功耗统计不准)~~、
 - 开发
   - homebrew、p10k
   - OrbStack
