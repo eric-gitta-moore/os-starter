@@ -14,6 +14,7 @@
   - OBS、KeyCastr、ScreenBrush
   - [Ice](https://github.com/jordanbaird/Ice) (比 Bartender 更好使)
   - BetterDisplay（自定义分辨率、外接屏幕管理、画中画破解就完事了）、DeskPad
+  - Topit (窗口置顶)
   - 有道翻译 (截图翻译)
   - Typora、vscode
 - 语音输入
