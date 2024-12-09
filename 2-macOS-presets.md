@@ -10,6 +10,7 @@
   - bandizip
   - 腾讯柠檬、AppCleaner
 - 效率
+  - LinearMouse
   - alt-tab-macos、utools、iShot (多屏贴图)、Snipaste (截图)、CleanShot X (gif、轻量编辑)、iCopy
   - OBS、KeyCastr、ScreenBrush
   - [Ice](https://github.com/jordanbaird/Ice) (比 Bartender 更好使)
