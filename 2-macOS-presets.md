@@ -40,6 +40,7 @@
 - [避免 XprotectService](https://catcoding.me/p/apple-perf/)
 - [关闭 Spotlight Search 索引功能](https://blog.csdn.net/hadues/article/details/127889004)
 - BetterDisplay 改分辨率 1920*1200
+- 关闭 [根据最近使用情况自动重新排列空间](https://blog.csdn.net/wide288/article/details/104411343)
 
 ## 参考
 - https://44maker.github.io/wiki/Mac/index.html
