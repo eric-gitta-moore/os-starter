@@ -23,3 +23,7 @@ XButton2::HandleKeyPress("{PgUp}")
 
 ; 映射鼠标后侧键为 Page Down
 XButton1::HandleKeyPress("{PgDn}")
+
+; 优先用内核级别的 Cap2Ctrl 这里作为 parsec 远程的 backup
+CapsLock::LCtrl
++CapsLock::CapsLock
