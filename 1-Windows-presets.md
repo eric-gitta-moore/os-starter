@@ -4,6 +4,7 @@
 
 ## 必备软件
 - 火绒、
+- Defender Control (不然编译 golang 会被防病毒卡死)
 - chocolatey、Windows 11 Classic Context Menu
 - utools、FastGestures、powertoys、Ctrl2Cap、AutoHotKey (垃圾鼠标改侧键必备)、autoruns 查开机自启的
 - windterm、conda、git、7zip、bandizip
