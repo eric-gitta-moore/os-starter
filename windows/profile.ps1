@@ -1,4 +1,5 @@
 Set-Alias -Name l -Value Get-ChildItem
+Set-Alias -Name ccurl -Value "$env:USERPROFILE\scoop\shims\curl.exe"
 
 # 需要自行写入到 profile 文件里面，具体路径 敲命令回车会显示: $PROFILE
 if (Test-Path $env:ChocolateyInstall\helpers\chocolateyProfile.psm1) {
