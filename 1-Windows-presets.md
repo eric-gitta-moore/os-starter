@@ -52,21 +52,9 @@
 - oh-my-posh + powerlevel10k_rainbow
 - Sysinternals Suit
   - `winget install Microsoft.Sysinternals`
- 
+- [profile.ps1](./windows/profile.ps1) 参考
 
 其他必备 command
-- alias
-  ```pwsh
-  Set-Alias -Name l -Value Get-ChildItem
-  Set-Alias -Name which -Value gcm
-  ```
-- choco 自带的 `refreshenv`
-  ```pwsh
-  # 需要自行写入到 profile 文件里面，具体路径 敲命令回车会显示: $PROFILE
-  if (Test-Path $env:ChocolateyInstall\helpers\chocolateyProfile.psm1) {
-      Import-Module $env:ChocolateyInstall\helpers\chocolateyProfile.psm1
-  }
-  ```
 - scoop: file
 - scoop: less
 - scoop: git
