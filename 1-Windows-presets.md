@@ -39,9 +39,3 @@
 ### Adobe
 - [GenP Wiki](https://www.reddit.com/r/GenP/wiki/index/)
 - [破解方式有哪些](https://www.reddit.com/r/GenP/wiki/patchmethods/)
-
-## 吐槽
-- 说 windows 也可以开发的试试，不改代码跑一下这个。只能在 git-bash、MSYS2 之类的 POSIX shell 运行
-  - https://github.com/VisActor/VRender/blob/b9dbbe081171bdfcf2677f6e6c4dbe01fee51c99/tools/bundler/package.json#L18
-  - 也可以配置，就是太麻烦了。以前也喜欢折腾，但是如果换电脑比较频繁，感觉还是耗不起这个时间，罢了用 WSL2
-    - [MSYS2 和 mintty 打造 Windows 下 Linux 工具体验](https://creaink.github.io/post/Computer/Windows/win-msys2.html)
