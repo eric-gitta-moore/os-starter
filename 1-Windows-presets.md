@@ -23,6 +23,7 @@
 
 ## 其他
 - [Chocolatey Software | Packages](https://community.chocolatey.org/packages)
+- [DCI-P3 广色域屏 Webkit-logo-P3 测试图](https://v2ex.com/t/622454#r_16034770)
 
 ### WSL
 - WSL 配置一条龙：https://eric-gitta-moore.github.io/2023/ubuntu-setup-summary/
