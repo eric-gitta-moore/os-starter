@@ -56,7 +56,7 @@
 其他必备 command
 - alias
   ```pwsh
-  Set-Alias -Name ll -Value Get-ChildItem
+  Set-Alias -Name l -Value Get-ChildItem
   Set-Alias -Name which -Value gcm
   ```
 - choco 自带的 `refreshenv`
