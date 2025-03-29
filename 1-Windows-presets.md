@@ -3,20 +3,22 @@
 如无必要，勿增实体
 
 ## 必备软件
-- 火绒、
-- Defender Control (不然编译 golang 会被防病毒卡死)
-- chocolatey、Windows 11 Classic Context Menu
-- utools、FastGestures、powertoys、Ctrl2Cap、AutoHotKey (垃圾鼠标改侧键必备)、autoruns 查开机自启的
-- windterm、conda、git、7zip、bandizip
+- 火绒、Process Lasso
+- chocolatey、Scoop、Windows 11 Classic Context Menu
+- utools、FastGestures、powertoys、Ctrl2Cap、AutoHotKey (垃圾鼠标改侧键必备)、autoruns 查开机自启的、Geek
+- conda、git、7zip、bandizip
 - ~~vagrant、VMware workstation、virtualbox、WSL~~
-- QuickLook、OpenHashTab
+- ~~QuickLook~~ (PowerToys 可以替代了)、OpenHashTab
 - 网络调试
   - NETworkManager
 
 ## 必要设置
-- 卓越性能
+- ~~卓越性能~~，改用 Process Lasso 提供的 `Bitsum Highest Performance`
 - ~~显示语言英文，行政语言简体中文，[删除注册表日文韩文](https://zhuanlan.zhihu.com/p/502139239)~~
+- Defender Control 关闭 Windows Defender (不然编译 golang 会被防病毒卡死)
 - 卸载 MSPCManager (微软电脑管家)，编译时候扫文件抢了 CPU
+- 删除 Microsoft Copilot
+- 文本服务和输入语言 - 改掉 Ctrl+Space 热键占用
 
 ## 其他
 - [Chocolatey Software | Packages](https://community.chocolatey.org/packages)
