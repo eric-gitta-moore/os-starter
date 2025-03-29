@@ -51,6 +51,11 @@
   - [参考](https://learn.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4#winget)
 
 其他必备 command
+- alias
+  ```pwsh
+  Set-Alias -Name ll -Value Get-ChildItem
+  Set-Alias -Name which -Value gcm
+  ```
 - choco 自带的 `refreshenv`
   ```pwsh
   # 需要自行写入到 profile 文件里面，具体路径 敲命令回车会显示: $PROFILE
