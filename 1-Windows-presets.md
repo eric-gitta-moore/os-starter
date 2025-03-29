@@ -47,8 +47,11 @@
 - 确保 choco、scoop 已经安装
 - 安装/更新 winget 到最新版
   - [参考](https://github.com/microsoft/winget-cli/discussions/4100)
-- 升级到 pwsh7 `winget upgrade pwsh`
+- 升级到 pwsh7
   - [参考](https://learn.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4#winget)
+- Sysinternals Suit
+  - `winget install Microsoft.Sysinternals`
+ 
 
 其他必备 command
 - alias
