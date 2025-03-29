@@ -13,7 +13,7 @@
   - NETworkManager
 
 ## 必要设置
-- **Windows11 轻松设置**
+- **Windows11 轻松设置** 禁用不该存在的东西
 - ~~卓越性能~~，改用 Process Lasso 提供的 `Bitsum Highest Performance`
 - ~~显示语言英文，行政语言简体中文，[删除注册表日文韩文](https://zhuanlan.zhihu.com/p/502139239)~~
 - 关闭 Windows Defender
