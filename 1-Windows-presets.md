@@ -55,6 +55,7 @@
 - [profile.ps1](./windows/profile.ps1) 参考
 
 其他必备 command
+- scoop: **busybox**
 - scoop: file
 - scoop: less
 - scoop: git
