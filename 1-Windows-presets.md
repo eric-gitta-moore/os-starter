@@ -4,7 +4,7 @@
 
 ## 必备软件
 - 火绒、Process Lasso
-- chocolatey、Scoop、Windows11 轻松设置
+- chocolatey、Scoop
 - utools、FastGestures、powertoys、Ctrl2Cap、AutoHotKey (垃圾鼠标改侧键必备)、autoruns 查开机自启的、Geek
 - conda、git、7zip、bandizip
 - ~~vagrant、VMware workstation、virtualbox、WSL~~
@@ -13,6 +13,7 @@
   - NETworkManager
 
 ## 必要设置
+- **Windows11 轻松设置**
 - ~~卓越性能~~，改用 Process Lasso 提供的 `Bitsum Highest Performance`
 - ~~显示语言英文，行政语言简体中文，[删除注册表日文韩文](https://zhuanlan.zhihu.com/p/502139239)~~
 - 关闭 Windows Defender
