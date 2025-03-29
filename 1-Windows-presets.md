@@ -55,13 +55,8 @@
 - [profile.ps1](./windows/profile.ps1) 参考
 
 其他必备 command
-- scoop: **busybox**
-- scoop: file
-- scoop: less
-- scoop: git
+- [Windows 下的 GNU/Linux 命令行工具](https://www.fournoas.com/posts/gnu-and-linux-command-line-tools-for-windows)
 - scoop: exiftool
 - scoop: gsudo
-- scoop: cmake
-- scoop: make
 - scoop: nvm
 - scoop: mkcert
