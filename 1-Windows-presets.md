@@ -56,6 +56,7 @@
 
 其他必备 command
 - [Windows 下的 GNU/Linux 命令行工具](https://www.fournoas.com/posts/gnu-and-linux-command-line-tools-for-windows)
+  - [页面备份](https://web.archive.org/web/20250329181455/https://www.fournoas.com/posts/gnu-and-linux-command-line-tools-for-windows/)
 - scoop: exiftool
 - scoop: gsudo
 - scoop: nvm
