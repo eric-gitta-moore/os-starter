@@ -61,3 +61,5 @@
 - scoop: gsudo
 - scoop: nvm
 - scoop: mkcert
+- scoop: tcping
+- scoop: httping
