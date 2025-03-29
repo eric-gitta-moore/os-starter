@@ -27,3 +27,6 @@ XButton1::HandleKeyPress("{PgDn}")
 ; 优先用内核级别的 Cap2Ctrl 这里作为 parsec 远程的 backup
 CapsLock::LCtrl
 +CapsLock::CapsLock
+
+; ctrl+esc => alt+f4
+^Esc::!F4
