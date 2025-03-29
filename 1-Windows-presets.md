@@ -24,7 +24,6 @@
 - gpedit 配置 win+r `使用管理员权限创建此任务`
 
 ## 其他
-- [Chocolatey Software | Packages](https://community.chocolatey.org/packages)
 - [DCI-P3 广色域屏 Webkit-logo-P3 测试图](https://v2ex.com/t/622454#r_16034770)
 
 ### WSL
