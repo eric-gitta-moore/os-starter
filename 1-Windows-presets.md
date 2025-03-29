@@ -19,6 +19,7 @@
 - 卸载 MSPCManager (微软电脑管家)，编译时候扫文件抢了 CPU
 - 删除 Microsoft Copilot
 - 文本服务和输入语言 - 改掉 Ctrl+Space 热键占用
+- 微软拼音禁用 ctrl+space，关闭繁体切换，再删除微软拼音
 
 ## 其他
 - [Chocolatey Software | Packages](https://community.chocolatey.org/packages)
