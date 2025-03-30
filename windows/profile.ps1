@@ -1,8 +1,18 @@
 Set-Alias -Name l -Value Get-ChildItem
 
-# 需要自行写入到 profile 文件里面，具体路径 敲命令回车会显示: $PROFILE
 if (Test-Path $env:ChocolateyInstall\helpers\chocolateyProfile.psm1) {
     Import-Module $env:ChocolateyInstall\helpers\chocolateyProfile.psm1
 }
 
-oh-my-posh init pwsh --config https://github.com/JanDeDobbeleer/oh-my-posh/raw/main/themes/powerlevel10k_rainbow.omp.json | Invoke-Expression
+
+#region conda initialize
+# !! Contents within this block are managed by 'conda init' !!
+If (Test-Path "C:\Users\admin\scoop\apps\miniconda3\current\Scripts\conda.exe") {
+    (& "C:\Users\admin\scoop\apps\miniconda3\current\Scripts\conda.exe" "shell.powershell" "hook") | Out-String | ?{$_} | Invoke-Expression
+}
+#endregion
+
+
+# 顺序不能乱，需要在 conda 之后，不然出现两个 (base)
+oh-my-posh init pwsh --config $HOME\Documents\PowerShell\powerlevel10k_rainbow.omp.json | Invoke-Expression
+
