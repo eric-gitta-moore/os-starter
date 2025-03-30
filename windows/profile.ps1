@@ -1,5 +1,6 @@
 # 全部都放在 $PROFILE.CurrentUserAllHosts 文件里面就 ok
 
+# alias refreshenv
 Import-Module $env:ChocolateyInstall\helpers\chocolateyProfile.psm1
 
 #region conda initialize
