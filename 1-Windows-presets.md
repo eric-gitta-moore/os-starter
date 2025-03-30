@@ -62,3 +62,4 @@
 - scoop: mkcert
 - scoop: tcping
 - scoop: httping
+- scoop: tre-command
