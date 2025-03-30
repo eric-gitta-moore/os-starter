@@ -6,13 +6,15 @@ if (Test-Path $env:ChocolateyInstall\helpers\chocolateyProfile.psm1) {
     Import-Module $env:ChocolateyInstall\helpers\chocolateyProfile.psm1
 }
 
-# conda config --set changeps1 false
 #region conda initialize
 # !! Contents within this block are managed by 'conda init' !!
 function CondaInit {
-    $CondaExe = "C:\Users\admin\scoop\apps\miniconda3\current\Scripts\conda.exe"
-    (& $CondaExe "shell.powershell" "hook") | Out-String | ?{$_} | Invoke-Expression
+    If (Test-Path "C:\Users\admin\scoop\apps\miniconda3\current\Scripts\conda.exe") {
+        (& "C:\Users\admin\scoop\apps\miniconda3\current\Scripts\conda.exe" "shell.powershell" "hook") | Out-String | ?{$_} | Invoke-Expression
+    }
 }
 #endregion
 
+# 执行下面，不然 conda 的 env 会加载 starship 前面
+# conda config --set changeps1 false
 Invoke-Expression (&starship init powershell)
