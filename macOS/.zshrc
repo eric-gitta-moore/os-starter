@@ -3,7 +3,7 @@ source $HOMEBREW_PREFIX/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source $HOMEBREW_PREFIX/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 eval "$(fnm env --shell zsh)"
-[[ -s "/Users/bytedance/.gvm/scripts/gvm" ]] && source "/Users/bytedance/.gvm/scripts/gvm"
+[ -s "${HOME}/.g/env" ] && \. "${HOME}/.g/env"  # g shell setup
 
 [ ! -f "$HOME/.x-cmd.root/X" ] || . "$HOME/.x-cmd.root/X" # boot up x-cmd.
 
@@ -27,6 +27,8 @@ condainit() {
 alias gitc='git config user.email EricGittaMoore@duck.com && git config user.name "Eric Moore"'
 
 export PATH=~/.jsvu/bin:$PATH
+
+export PATH="$PATH:/Users/bytedance/fvm/default/bin"
 
 eval "$(starship init zsh)"
 eval "$(lua $(brew --prefix z.lua)/share/z.lua/z.lua --init zsh echo once enhanced)"
