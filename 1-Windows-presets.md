@@ -60,7 +60,7 @@
   - [页面备份](https://web.archive.org/web/20250329181455/https://www.fournoas.com/posts/gnu-and-linux-command-line-tools-for-windows/)
 - scoop: exiftool
 - scoop: gsudo
-- scoop: nvm
+- scoop: fvm
 - scoop: mkcert
 - scoop: tcping
 - scoop: httping
