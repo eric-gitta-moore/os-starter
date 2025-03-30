@@ -66,3 +66,5 @@
 - scoop: httping
 - scoop: tre-command
 - scoop: fastfetch
+- scoop: lua
+- scoop: z.lua
