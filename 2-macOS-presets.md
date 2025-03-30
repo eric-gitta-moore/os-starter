@@ -4,7 +4,8 @@
 - 监控
   - Mx Power Gadget、iStat Menus
 - 开发
-  - homebrew、p10k
+  - homebrew、zsh、starship
+  - zsh-autosuggestions、zsh-syntax-highlighting
   - OrbStack
 - 文件管理 / 清理
   - bandizip
