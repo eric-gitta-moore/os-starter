@@ -48,6 +48,7 @@
   - [参考](https://github.com/microsoft/winget-cli/discussions/4100)
 - 升级到 pwsh7
   - [参考](https://learn.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4#winget)
+- [Nerd Fonts Installer](https://github.com/ryanoasis/nerd-fonts)
 - ~~oh-my-posh + powerlevel10k_rainbow~~
 - starship
 - Sysinternals Suit
