@@ -63,3 +63,4 @@
 - scoop: tcping
 - scoop: httping
 - scoop: tre-command
+- scoop: fastfetch
