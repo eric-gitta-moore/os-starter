@@ -1,3 +1,5 @@
+# 全部都放在 $PROFILE.CurrentUserAllHosts 文件里面就 ok
+
 Set-Alias -Name l -Value Get-ChildItem
 
 if (Test-Path $env:ChocolateyInstall\helpers\chocolateyProfile.psm1) {
