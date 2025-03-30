@@ -2,6 +2,8 @@
 
 Set-Alias -Name l -Value Get-ChildItem
 
+Invoke-Expression (& { (lua C:\Users\admin\scoop\apps\z.lua\current\z.lua --init powershell echo once enhanced) -join "`n" })
+
 if (Test-Path $env:ChocolateyInstall\helpers\chocolateyProfile.psm1) {
     Import-Module $env:ChocolateyInstall\helpers\chocolateyProfile.psm1
 }
