@@ -49,7 +49,7 @@
 - 升级到 pwsh7
   - [参考](https://learn.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4#winget)
 - [Nerd Fonts Installer](https://github.com/ryanoasis/nerd-fonts)
-- ~~oh-my-posh + powerlevel10k_rainbow~~
+- ~~oh-my-posh + powerlevel10k_rainbow~~ (说实话有点卡)
 - starship
 - Sysinternals Suit
   - `winget install Microsoft.Sysinternals`
