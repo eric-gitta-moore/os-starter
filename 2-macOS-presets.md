@@ -35,6 +35,7 @@
   - opentrace（比 ipip.net 那个好使多了）
 
 ## 必选设置
+- [.zshrc](./macOS/.zshrc)
 - 调整时间格式
 - 三指滑动选中
 - caps2ctrl
