@@ -15,6 +15,4 @@ If (Test-Path "C:\Users\admin\scoop\apps\miniconda3\current\Scripts\conda.exe") 
 #endregion
 
 
-# 顺序不能乱，需要在 conda 之后，不然出现两个 (base)
-oh-my-posh init pwsh --config $HOME\Documents\PowerShell\powerlevel10k_rainbow.omp.json | Invoke-Expression
-
+Invoke-Expression (&starship init powershell)
