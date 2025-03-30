@@ -30,5 +30,5 @@ RAlt::CapsLock
 CapsLock::LCtrl
 +CapsLock::CapsLock
 
-; ctrl+esc => alt+f4
-^Esc::!F4
+; win+w => alt+f4
+#w::!F4
