@@ -5,7 +5,7 @@
   - Mx Power Gadget、iStat Menus
 - 开发
   - homebrew、zsh、starship
-  - zsh-autosuggestions、zsh-syntax-highlighting、z.lua
+  - brew: zsh-autosuggestions、zsh-syntax-highlighting、z.lua
   - OrbStack
 - 文件管理 / 清理
   - bandizip
