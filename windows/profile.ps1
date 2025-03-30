@@ -9,19 +9,9 @@ if (Test-Path $env:ChocolateyInstall\helpers\chocolateyProfile.psm1) {
 # conda config --set changeps1 false
 #region conda initialize
 # !! Contents within this block are managed by 'conda init' !!
-function Use-Conda {
-    param (
-        [string] $Activate
-    )
-    
+function CondaInit {
     $CondaExe = "C:\Users\admin\scoop\apps\miniconda3\current\Scripts\conda.exe"
-    If (Test-Path $CondaExe) {
-        (& $CondaExe "shell.powershell" "hook") | Out-String | ?{$_} | Invoke-Expression
-        
-        if ($Activate) {
-            conda activate $Activate
-        }
-    }
+    (& $CondaExe "shell.powershell" "hook") | Out-String | ?{$_} | Invoke-Expression
 }
 #endregion
 
