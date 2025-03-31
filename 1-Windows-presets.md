@@ -9,6 +9,7 @@
 - ~~QuickLook~~ (PowerToys 也有了)、OpenHashTab
 - 网络调试
   - NETworkManager
+  - tcpview64.exe
 
 ## 必要设置
 - **Windows11 轻松设置** 禁用不该存在的东西
