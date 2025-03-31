@@ -55,10 +55,10 @@
 - [Nerd Fonts Installer](https://github.com/ryanoasis/nerd-fonts)
 - ~~oh-my-posh + powerlevel10k_rainbow~~ (说实话有点卡)
 - starship
-- pwsh Module pwsh-syntax-highlighting
 - Sysinternals Suit
   - `winget install Microsoft.Sysinternals`
 - [profile.ps1](./windows/profile.ps1) 参考
+  - pwsh Module pwsh-syntax-highlighting
 
 其他必备 command
 - [Windows 下的 GNU/Linux 命令行工具](https://www.fournoas.com/posts/gnu-and-linux-command-line-tools-for-windows)
