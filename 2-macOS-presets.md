@@ -4,7 +4,7 @@
 - 监控
   - Mx Power Gadget、iStat Menus
 - 开发
-  - homebrew、zsh、starship
+  - homebrew、zsh、starship、ohmyzsh
   - brew: zsh-autosuggestions、zsh-syntax-highlighting、z.lua
   - OrbStack
 - 文件管理 / 清理
