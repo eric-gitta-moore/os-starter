@@ -2,6 +2,7 @@
 
 # alias refreshenv
 Import-Module $env:ChocolateyInstall\helpers\chocolateyProfile.psm1
+Import-Module syntax-highlighting
 
 #region conda initialize
 # !! Contents within this block are managed by 'conda init' !!
