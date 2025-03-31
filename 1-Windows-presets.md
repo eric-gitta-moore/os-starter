@@ -6,8 +6,6 @@
 - 火绒、Process Lasso
 - chocolatey、Scoop
 - utools、FastGestures、powertoys、Ctrl2Cap、AutoHotKey (垃圾鼠标改侧键必备)、autoruns 查开机自启的、Geek
-- conda、git、7zip、bandizip
-- ~~VMware workstation、WSL~~
 - ~~QuickLook~~ (PowerToys 也有了)、OpenHashTab
 - 网络调试
   - NETworkManager
