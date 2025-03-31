@@ -22,3 +22,19 @@ Set-Alias -Name l -Value Get-ChildItem
 function gitc { 
     git config user.email "EricGittaMoore@duck.com"; git config user.name "Eric Moore"
 }
+# https://stackoverflow.com/questions/29266622/how-to-run-exe-with-without-elevated-privileges-from-powershell
+function isAdministrator {
+    $CurrentID = [System.Security.Principal.WindowsIdentity]::GetCurrent()
+    $CurrentPrincipal = new-object System.Security.Principal.WindowsPrincipal($CurrentID)
+    $adminRole = [System.Security.Principal.WindowsBuiltInRole]::Administrator
+
+    # Check to see if session is currently with admin privileges
+    if ($CurrentPrincipal.IsInRole($adminRole)) {
+        write-host "Yes we are running elevated."
+    }else{
+        write-host "No this is a normal user session."
+    }
+}
+function toGeneralUser {
+    runas /trustlevel:0x20000 pwsh
+}
