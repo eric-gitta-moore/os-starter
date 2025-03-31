@@ -22,7 +22,11 @@
 - 文本服务和输入语言 - 改掉 Ctrl+Space 热键占用
 - 微软拼音禁用 ctrl+space，关闭繁体切换，再删除微软拼音
 - gpedit 配置 win+r `使用管理员权限创建此任务`
+
+## runtime 补丁
 - 微软常用运行库合集 - 果核剥壳
+- 微软.NET离线运行库合集 - 果核剥壳
+- VisualCppRedist(运行库合集)  - 果核剥壳
 
 ## 其他
 - [DCI-P3 广色域屏 Webkit-logo-P3 测试图](https://v2ex.com/t/622454#r_16034770)
