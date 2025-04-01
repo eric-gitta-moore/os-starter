@@ -6,7 +6,7 @@ Import-Module syntax-highlighting
 
 #region conda initialize
 # !! Contents within this block are managed by 'conda init' !!
-function CondaInit { (& "$HOME\scoop\apps\miniconda3\current\Scripts\conda.exe" "shell.powershell" "hook") | Out-String | ?{$_} | Invoke-Expression }
+function CondaInit { (& "$HOME\scoop\apps\miniconda3\current\Scripts\conda.exe" "shell.powershell" "hook") | Out-String | ? { $_ } | Invoke-Expression }
 #endregion
 
 # 执行下面，不然 conda 的 env 会加载 starship 前面
