@@ -28,7 +28,7 @@ RAlt::CapsLock
 
 ; 优先用内核级别的 Cap2Ctrl 这里作为 parsec 远程的 backup
 CapsLock::LCtrl
-+CapsLock::CapsLock
+; +CapsLock::CapsLock
 
 ; win+w => alt+f4
 #w::!F4
