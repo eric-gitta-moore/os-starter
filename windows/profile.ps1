@@ -16,6 +16,9 @@ Invoke-Expression (&starship init powershell)
 # 必须要在 starship 后面，不然不生效
 Invoke-Expression (& { (lua $HOME\scoop\apps\z.lua\current\z.lua --init powershell echo once enhanced) -join "`n" })
 
+# fnm
+fnm env --use-on-cd | Out-String | Invoke-Expression
+
 # alias
 Set-Alias -Name l -Value Get-ChildItem
 function cd~ { Set-Location ~ }
@@ -27,3 +30,4 @@ function gitc { git config user.email "EricGittaMoore@duck.com"; git config user
 # https://stackoverflow.com/questions/29266622/how-to-run-exe-with-without-elevated-privileges-from-powershell
 function isAdministrator { echo $(if ((new-object System.Security.Principal.WindowsPrincipal([System.Security.Principal.WindowsIdentity]::GetCurrent())).IsInRole([System.Security.Principal.WindowsBuiltInRole]::Administrator)) { "Yes we are running elevated." } else { "No this is a normal user session." }) }
 function toGeneralUser { runas /trustlevel:0x20000 pwsh }
+
