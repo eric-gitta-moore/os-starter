@@ -8,6 +8,7 @@ Import-Module syntax-highlighting
 # !! Contents within this block are managed by 'conda init' !!
 function CondaInit { (& "$HOME\scoop\apps\miniconda3\current\Scripts\conda.exe" "shell.powershell" "hook") | Out-String | ? { $_ } | Invoke-Expression }
 #endregion
+$env:PYTHONUTF8=1 # 修复 codna 报错 UnicodeEncodeError
 
 # 执行下面，不然 conda 的 env 会加载 starship 前面
 # conda config --set changeps1 false  
