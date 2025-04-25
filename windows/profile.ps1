@@ -19,6 +19,12 @@ Invoke-Expression (& { (lua $HOME\scoop\apps\z.lua\current\z.lua --init powershe
 
 # fnm
 fnm env --use-on-cd | Out-String | Invoke-Expression
+# fvm
+$env:PATH = "$HOME\scoop\apps\fvm\current\default\bin;" + $env:PATH
+# rustup
+$env:PATH = "$HOME\scoop\apps\rustup\current\.cargo\bin;" + $env:PATH
+$env:CARGO_HOME = "$HOME\scoop\apps\rustup\current\.cargo"
+
 
 # alias
 Set-Alias -Name l -Value Get-ChildItem
