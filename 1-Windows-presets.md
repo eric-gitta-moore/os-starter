@@ -33,6 +33,7 @@
 - [DCI-P3 广色域屏 Webkit-logo-P3 测试图](https://v2ex.com/t/622454#r_16034770)
 - [打开 IE](https://www.v2ex.com/t/1126309#r_16154662)
   - powershell `(New-Object -ComObject InternetExplorer.Application).Visible = $true;`
+- IObit Driver Booster Pro(驱动管理) v12.4.0.571 便携修改版 - 果核剥壳
 
 ### WSL
 - WSL 配置一条龙：https://eric-gitta-moore.github.io/2023/ubuntu-setup-summary/
