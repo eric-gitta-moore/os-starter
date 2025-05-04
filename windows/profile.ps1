@@ -24,6 +24,8 @@ $env:PATH = "$HOME\scoop\apps\fvm\current\default\bin;" + $env:PATH
 # rustup
 $env:PATH = "$HOME\scoop\apps\rustup\current\.cargo\bin;" + $env:PATH
 $env:CARGO_HOME = "$HOME\scoop\apps\rustup\current\.cargo"
+# gobin
+$env:PATH = "$HOME\go\bin;" + $env:PATH
 
 
 # alias
