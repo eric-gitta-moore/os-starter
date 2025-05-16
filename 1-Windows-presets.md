@@ -7,6 +7,8 @@
 - winget、chocolatey、Scoop
 - utools、FastGestures、powertoys、Ctrl2Cap、AutoHotKey (垃圾鼠标改侧键必备)、autoruns 查开机自启的、Geek
 - QuickLook (PowerToys 也有不过不好用)、OpenHashTab
+- 外设
+  - Twinkle Tray
 - 网络调试
   - NETworkManager
   - tcpview64.exe
