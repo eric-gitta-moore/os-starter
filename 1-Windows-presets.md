@@ -36,6 +36,7 @@
 - [打开 IE](https://www.v2ex.com/t/1126309#r_16154662)
   - powershell `(New-Object -ComObject InternetExplorer.Application).Visible = $true;`
 - IObit Driver Booster Pro(驱动管理) v12.4.0.571 便携修改版 - 果核剥壳
+- OCCT(系统检测工具)v12.1.12.99 便携版 - 果核剥壳
 
 ### WSL
 - WSL 配置一条龙：https://eric-gitta-moore.github.io/2023/ubuntu-setup-summary/
