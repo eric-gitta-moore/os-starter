@@ -1,3 +1,7 @@
+
+# Kiro CLI pre block. Keep at the top of this file.
+[[ -f "${HOME}/Library/Application Support/kiro-cli/shell/zshrc.pre.zsh" ]] && builtin source "${HOME}/Library/Application Support/kiro-cli/shell/zshrc.pre.zsh"
+
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
 [ ! -f "$HOME/.x-cmd.root/X" ] || . "$HOME/.x-cmd.root/X" # boot up x-cmd.
@@ -18,8 +22,9 @@ export LSCOLORS='ExGxGxDxCxDxDxFxFxexEx' # darwin ls
 # export ARCHFLAGS="-arch $(uname -m)"
 
 eval "$(starship init zsh)" # starship setup
-eval "$(lua $(brew --prefix z.lua)/share/z.lua/z.lua --init zsh echo once enhanced)" # z.lua setup
+# eval "$(lua $(brew --prefix z.lua)/share/z.lua/z.lua --init zsh echo once enhanced)" # z.lua setup
 eval "$(sheldon source)" # sheldon setup
+eval "$(zoxide init zsh)"
 
 ## alias
 alias gitc='git config user.email EricGittaMoore@duck.com && git config user.name "Eric Moore"'
@@ -45,3 +50,7 @@ export PATH="$HOME/.local/bin:$PATH"
 
 export PATH="/opt/homebrew/opt/curl/bin:$PATH"
 export PATH=$HOME/.local/bin:$PATH
+
+
+# Kiro CLI post block. Keep at the bottom of this file.
+[[ -f "${HOME}/Library/Application Support/kiro-cli/shell/zshrc.post.zsh" ]] && builtin source "${HOME}/Library/Application Support/kiro-cli/shell/zshrc.post.zsh"
