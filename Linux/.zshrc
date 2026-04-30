@@ -12,8 +12,6 @@ eval "$(starship init zsh)"
 eval "$(sheldon source)"
 eval "$(zoxide init zsh)"
 
-export PATH="${ASDF_DATA_DIR:-$HOME/.asdf}/shims:$PATH"
-
 ## alias
 alias gitc='git config user.email EricGittaMoore@duck.com && git config user.name "Eric Moore"'
 alias l='ls -alhG'
@@ -21,3 +19,17 @@ alias e='eza -alh'
 export HOMEBREW_NO_AUTO_UPDATE=1
 
 export PATH="$HOME/.local/bin:$PATH"
+export PATH="${ASDF_DATA_DIR:-$HOME/.asdf}/shims:$PATH"
+
+# >>> mamba initialize >>>
+# !! Contents within this block are managed by 'mamba shell init' !!
+export MAMBA_EXE='/home/linuxbrew/.linuxbrew/Cellar/micromamba/2.5.0_4/bin/mamba';
+export MAMBA_ROOT_PREFIX='/home/myadmin/mamba';
+__mamba_setup="$("$MAMBA_EXE" shell hook --shell zsh --root-prefix "$MAMBA_ROOT_PREFIX" 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__mamba_setup"
+else
+    alias mamba="$MAMBA_EXE"  # Fallback on help from mamba activate
+fi
+unset __mamba_setup
+# <<< mamba initialize <<<
