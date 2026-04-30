@@ -35,6 +35,7 @@ fi
 unset __mamba_setup
 # <<< mamba initialize <<<
 
+export PATH="${ASDF_DATA_DIR:-$HOME/.asdf}/shims:$PATH"
 export PATH=$PATH:~/.jsvu/bin # GoogleChromeLabs/jsvu setup
 export PATH="$HOME/.local/bin:$PATH"
 export PATH="$HOME/.cargo/bin:/opt/homebrew/opt/curl/bin:$PATH"
